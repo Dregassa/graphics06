@@ -74,6 +74,7 @@ move
 250 250 0
 apply
 display
+save
 #reset torus, rotate to make it look cool
 ident
 move
